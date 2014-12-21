@@ -1,8 +1,8 @@
 #!/bin/bash
 #########################################################################
-# Author: (chenyu@1207.cn)
+# Author: (chenyu@1207.me)
 # Created Time: 2014-11-05 13:15:02
-# File Name: urlschemes_parse.sh
+# File Name: usp.sh
 # Description: 解析ipa包中的URLSchemes
 #########################################################################
 
